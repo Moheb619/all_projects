@@ -2,7 +2,7 @@
 
 ## [ICICT4SD (IEEE Conference Website in Production)](https://github.com/Moheb619/icict4sd)
 
-"This marks my latest endeavor as a website developer, spearheading the creation for the IEEE conference hosted at BUP from September 21st to 23rd, 2023. I'm thrilled to announce that the website has been officially launched under the auspices of BUP."
+"This marks my latest endeavor as a website developer, spearheading the creation for the IEEE conference hosted at "Bangladesh University of Professionals" from September 21st to 23rd, 2023. I'm thrilled to announce that the website has been officially launched under the auspices of "Bangladesh University of Professionals"."
 
 ### Tech Stack
 
